@@ -11,7 +11,7 @@ print(myMap)
 
 # print the entries
 print("\nKey-Value\n")
-for (k, v) in myMap.items():
+for k, v in myMap.items():
     print(k, v)
 
 # loop with the index
